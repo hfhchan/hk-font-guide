@@ -84,6 +84,7 @@ strokes.
 
 ## Components
 
-Some characters use different components compared to the GB-compliant forms. They are catalogued in
-respective files. Some characters have different components according to the reference guides, but the
-GB-complaint forms are actually the most common and widely accepted.
+Some characters use different components compared to the GB-compliant forms. A small subset of high
+frequency characters have different components according to the reference guides, but the
+GB-complaint forms are actually the most common and widely accepted, e.g. 七, 也, 感. They are
+catalogued in respective files.

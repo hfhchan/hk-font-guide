@@ -1,0 +1,10 @@
+The standard form in Traditional Chinese is 黃 instead of 黄.
+
+There are some characters in Unicode where there are separate codepoints
+assigned for the characters using these components, e.g. 橫 vs 横.
+
+However, there are some characters where the same codepoint is used,
+e.g. 磺.
+
+Make sure the characters where the same codepoint is shared between the
+two forms uses only the form 黃.

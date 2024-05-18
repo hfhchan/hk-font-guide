@@ -54,7 +54,8 @@ in terms of aesthetics and legibility.
 In the reference guides, the avoidance of strokes (避讓) is applied extremely broadly. Characters on the
 top with a 捺 stroke needs to be changed to a 點 stroke even if the character on the bottom does not
 have a 捺 stroke, e.g. 香 has a 點 stroke instead of a 捺 stroke. The reverse is also true, e.g. the 矢
-in 挨 has a 點 stroke instead of 捺 stroke.
+in 挨 has a 點 stroke instead of 捺 stroke. For some cases like 央, the 捺 stroke is even changed when it is
+on the right.
 
 Commerically produced fonts do not follow these avoidance of strokes. They may either follow the
 GB-compliant forms where the 捺 stroke is changed only in cases to ensure that only one 捺 stroke is present

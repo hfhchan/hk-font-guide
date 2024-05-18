@@ -62,9 +62,10 @@ in each character, or keep 捺 strokes as they are.
 
 Either are fine. Do not apply the avoidance of strokes simply because the character is on the top or bottom.
 
-Avoidance of stroke when the character is on the left e.g. the 文 inside 斑.
+Avoid the stroke when the character is on the left e.g. the 文 inside 斑. Exception: the 捺 of 瓣 is usually
+kept unchanged in commercial fonts.
 
-Avoidance of stroke when the character is inside a enclosure component may sometimes not be applied especially
+Avoid the stroke when the character is inside a enclosure component may sometimes not be applied especially
 in extra bold fonts, e.g. 各 inside 閣.
 
 ## Balance

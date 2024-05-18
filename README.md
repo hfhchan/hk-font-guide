@@ -49,6 +49,24 @@ seen in GB-compliant fonts produced for mainland China.
 Always use the traditional split-stroke hook and split-stroke corner. It is widely accepted and superior
 in terms of aesthetics and legibility.
 
+## Avoidance of strokes
+
+In the reference guides, the avoidance of strokes (避讓) is applied extremely broadly. Characters on the
+top with a 捺 stroke needs to be changed to a 點 stroke even if the character on the bottom does not
+have a 捺 stroke, e.g. 香 has a 點 stroke instead of a 捺 stroke. The reverse is also true, e.g. the 矢
+in 挨 has a 點 stroke instead of 捺 stroke.
+
+Commerically produced fonts do not follow these avoidance of strokes. They may either follow the
+GB-compliant forms where the 捺 stroke is changed only in cases to ensure that only one 捺 stroke is present
+in each character, or keep 捺 strokes as they are.
+
+Either are fine. Do not apply the avoidance of strokes simply because the character is on the top or bottom.
+
+Avoidance of stroke when the character is on the left e.g. the 文 inside 斑.
+
+Avoidance of stroke when the character is inside a enclosure component may sometimes not be applied especially
+in extra bold fonts, e.g. 各 inside 閣.
+
 ## Balance
 
 Most Sung typefaces produced for the Traditional Chinese market prefer narrower 中宮 than mainstream

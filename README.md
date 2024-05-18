@@ -6,14 +6,14 @@ Guide for designing glyphs in the _modern-style_ Sung or Hei typefaces for the H
 
 There are two main reference documents for character glyphs in Hong Kong.
 
-- 香港小學學習字詞表
-  This is produced by the Education Bureau and distributed to primary and secondary schools.
-  The glyphs provided are in the Kai typeface.
+- 香港小學學習字詞表  
+  This is produced by the Education Bureau and distributed to primary and secondary schools.  
+  The glyphs provided are in the Kai typeface.  
   See: https://www.edbchinese.hk/lexlist_ch/
 
-- Reference Glyphs for Chinese Computer Systems in Hong Kong
-  This is published by the Office of the Government Chief Information Officer.
-  The glyphs provided are in the Kai typeface and Song typeface.
+- Reference Glyphs for Chinese Computer Systems in Hong Kong  
+  This is published by the Office of the Government Chief Information Officer.  
+  The glyphs provided are in the Kai typeface and Song typeface.  
   See: https://www.ccli.gov.hk/en/download/reference_glyphs.html
 
 These documents are prepared by the respective government agencies as a reference only. They differ

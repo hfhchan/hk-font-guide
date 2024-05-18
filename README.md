@@ -86,5 +86,5 @@ strokes.
 
 Some characters use different components and/or structure compared to the GB-compliant forms. A small
 subset of high frequency characters have different components / structure according to the reference
-guides, but the GB-complaint forms are actually the most common and widely accepted, e.g. 七, 也, 感.
+guides, but the GB-compliant forms are actually the most common and widely accepted, e.g. 七, 也, 感.
 Refer to the respective .md files for more details.

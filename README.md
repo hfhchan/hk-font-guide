@@ -82,9 +82,9 @@ variability in overall "grayness". Do not over thin the vertical strokes for bet
 There is supposed to be a contrast between characters with a few strokes and characters with a lot of
 strokes.
 
-## Components
+## Components and Structure
 
-Some characters use different components compared to the GB-compliant forms. A small subset of high
-frequency characters have different components according to the reference guides, but the
-GB-complaint forms are actually the most common and widely accepted, e.g. 七, 也, 感. They are
-catalogued in respective files.
+Some characters use different components and/or structure compared to the GB-compliant forms. A small
+subset of high frequency characters have different components / structure according to the reference
+guides, but the GB-complaint forms are actually the most common and widely accepted, e.g. 七, 也, 感.
+Refer to the respective .md files for more details.
